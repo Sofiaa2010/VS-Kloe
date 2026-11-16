@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.destaque{
+    background-color: rgb(219, 29, 29);
+    color: aliceblue;
+}
+
+.escuro{
+    background-color: rgb(50, 36, 211);
+    color: aliceblue;
+}
+
